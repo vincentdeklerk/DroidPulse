@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DroidPulse</string>
+    <string name="voip_listener_label">DroidPulse Call Capture</string>
+    <string name="fgs_channel_name">DroidPulse Telemetry Engine</string>
+    <string name="fgs_channel_description">Persistent background capture for enabled telemetry micro-plugins</string>
+    <string name="push_channel_name">Cloud Push Alerts</string>
+    <string name="push_channel_description">Status updates for Drive, Dropbox, and FTP file push events</string>
+</resources>

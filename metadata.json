@@ -1,0 +1,6 @@
+{
+  "name": "DroidPulse",
+  "description": "Set-and-forget micro-plugin admin console for offline call-to-calendar logging, network usage tracking, passive/active GPS logging to CSV/GPX, and folder watching to Drive, Dropbox, or FTP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
